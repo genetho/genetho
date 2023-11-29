@@ -29,12 +29,7 @@ I'm a developer who is passionate about writing code, solving problems, and cont
 - Job Scheduling with **Hangfire**
 - Cloud Services with **Firebase, Google Cloud, Azure**
 
-<br />
-<br />
-<br />
-<br />
-
-📈 My GitHub Stats:
+## 📈 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/genetho" target="_blank">
