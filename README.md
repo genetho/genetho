@@ -31,5 +31,5 @@ I'm a developer who is passionate about writing code, solving problems, and cont
 
 ## 📈 GitHub Stats
 <p align="center">
- <a href="https://github.com/genetho" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=genetho&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="genetho's github stats
+  <a href="https://github.com/genetho" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=genetho&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="genetho's github stats
